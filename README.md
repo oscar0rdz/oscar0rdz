@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Oscar0rdz</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/wTv7s3I">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/wTv7s3I" data-context="false" ><a href="//imgur.com/a/wTv7s3I"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <p align="center">
 <a href="(https://github.com/oscar0rdz)">
