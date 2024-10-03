@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Oscar0rdz</a> </h1>
 </div>
-1. <img src="https://i.imgur.com/qQosIsx.png">
+
 
 <p align="center">
 <a href="(https://github.com/oscar0rdz)">
